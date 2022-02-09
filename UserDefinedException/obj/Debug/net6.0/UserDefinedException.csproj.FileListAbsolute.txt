@@ -1,0 +1,15 @@
+E:\tutorial\UserDefinedException\bin\Debug\net6.0\UserDefinedException.exe
+E:\tutorial\UserDefinedException\bin\Debug\net6.0\UserDefinedException.deps.json
+E:\tutorial\UserDefinedException\bin\Debug\net6.0\UserDefinedException.runtimeconfig.json
+E:\tutorial\UserDefinedException\bin\Debug\net6.0\UserDefinedException.dll
+E:\tutorial\UserDefinedException\bin\Debug\net6.0\ref\UserDefinedException.dll
+E:\tutorial\UserDefinedException\bin\Debug\net6.0\UserDefinedException.pdb
+E:\tutorial\UserDefinedException\obj\Debug\net6.0\UserDefinedException.csproj.AssemblyReference.cache
+E:\tutorial\UserDefinedException\obj\Debug\net6.0\UserDefinedException.GeneratedMSBuildEditorConfig.editorconfig
+E:\tutorial\UserDefinedException\obj\Debug\net6.0\UserDefinedException.AssemblyInfoInputs.cache
+E:\tutorial\UserDefinedException\obj\Debug\net6.0\UserDefinedException.AssemblyInfo.cs
+E:\tutorial\UserDefinedException\obj\Debug\net6.0\UserDefinedException.csproj.CoreCompileInputs.cache
+E:\tutorial\UserDefinedException\obj\Debug\net6.0\UserDefinedException.dll
+E:\tutorial\UserDefinedException\obj\Debug\net6.0\ref\UserDefinedException.dll
+E:\tutorial\UserDefinedException\obj\Debug\net6.0\UserDefinedException.pdb
+E:\tutorial\UserDefinedException\obj\Debug\net6.0\UserDefinedException.genruntimeconfig.cache
